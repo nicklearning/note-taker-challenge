@@ -8,7 +8,7 @@ To install this application, clone the repository and run 'git clone' in your te
 
 ## Usage
 To use this application, navigate to the below URL:
-![Note Taker](https://note-taker-challenge-deploy-e47631be47e0.herokuapp.com/)
+[Note Taker](https://note-taker-challenge-deploy-e47631be47e0.herokuapp.com/)
 
 Homepage
 ![Homepage](./imgs/homepage.png)
